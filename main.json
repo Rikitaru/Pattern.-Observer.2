@@ -1,0 +1,86 @@
+{
+  "size": 9,
+  "peoples": [
+    {
+      "country": "Russia",
+      "sport": "Biatlon",
+      "fio": "Ivanov Ivan",
+      "l": 9,
+      "a": 9,
+      "f": 9,
+      "s": 9
+    },
+    {
+      "country": "Russia",
+      "sport": "Skeleton",
+      "fio": "Ivanov Ivan",
+      "l": 7,
+      "a": 7,
+      "f": 7,
+      "s": 7
+    },
+    {
+      "country": "Japan",
+      "fio": "Pupkin Vasya",
+      "sport": "Skeleton",
+      "l": 2,
+      "a": 2,
+      "f": 2,
+      "s": 2
+    },
+    {
+      "country": "Finland",
+      "fio": "Pupkin Vasya",
+      "sport": "Biatlon",
+      "l": 4,
+      "a": 3,
+      "f": 2,
+      "s": 2
+    },
+    {
+      "country": "Skating",
+      "sport": "Skating",
+      "fio": "Ivanov Ivan",
+      "l": 2,
+      "a": 3,
+      "f": 4,
+      "s": 5
+    },
+    {
+      "country": "Japan",
+      "fio": "Pupkin Vasya",
+      "sport": "Skating",
+      "l": 9,
+      "a": 9,
+      "f": 9,
+      "s": 9
+    },
+    {
+      "country": "Finland",
+      "fio": "Pupkin Vasya",
+      "sport": "Skating",
+      "l": 2,
+      "a": 2,
+      "f": 2,
+      "s": 2
+    },
+    {
+      "country": "Finland",
+      "fio": "Pupkin Vasya",
+      "sport": "IceSkating",
+      "l": 5,
+      "a": 5,
+      "f": 5,
+      "s": 5
+    },
+    {
+      "country": "France",
+      "fio": "Pupkin Vasya",
+      "sport": "IceSkating",
+      "l": 8,
+      "a": 8,
+      "f": 8,
+      "s": 8
+    }
+  ]
+}

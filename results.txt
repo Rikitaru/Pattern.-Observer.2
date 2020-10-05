@@ -1,0 +1,13 @@
+В ввиде спорта: Skeleton победила: Russia
+1) Ivanov Ivan Russia 7
+2) Pupkin Vasya Japan 2
+В ввиде спорта: Biatlon победила: Russia
+1) Ivanov Ivan Russia 9
+2) Pupkin Vasya Finland 3
+В ввиде спорта: Skating победила: Japan
+1) Pupkin Vasya Japan 9
+2) Ivanov Ivan Skating 2
+3) Pupkin Vasya Finland 2
+В ввиде спорта: IceSkating победила: France
+1) Pupkin Vasya France 8
+2) Pupkin Vasya Finland 5
